@@ -1,0 +1,9 @@
+/home/pulkit/CG/Assignment2/2019101078/build/CMakeFiles/rebuild_cache.dir
+/home/pulkit/CG/Assignment2/2019101078/build/CMakeFiles/AmongUs2.0.dir
+/home/pulkit/CG/Assignment2/2019101078/build/CMakeFiles/edit_cache.dir
+/home/pulkit/CG/Assignment2/2019101078/build/CMakeFiles/glad.dir
+/home/pulkit/CG/Assignment2/2019101078/build/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/pulkit/CG/Assignment2/2019101078/build/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/pulkit/CG/Assignment2/2019101078/build/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/pulkit/CG/Assignment2/2019101078/build/libraries/glfw/src/CMakeFiles/glfw.dir
+/home/pulkit/CG/Assignment2/2019101078/build/libraries/glfw/src/CMakeFiles/edit_cache.dir
