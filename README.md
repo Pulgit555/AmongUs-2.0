@@ -25,4 +25,4 @@ make
 - **Imposter** - Follows the player in order to kill him by using shortest path algorithm.
 - **Light** - using `l` key can switch on/ off the lights. And the player will get `points = seconds spend in light off mode/2.` He will be able to see only the nearby area.
 
-Hope u enjoy playing this game :)
+Hope u enjoy playing AmongUs 2.0 :)
